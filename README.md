@@ -2,7 +2,8 @@
 a c code but it can compile herself
 
 ## Açıklama:
-- canım sıkıldı ve yapay zeka yardımıylada olsa neden kendi kendine basit de olsa C yapılarını derleyebilen bir C kodu yazmıyorum dedim kendisi kaydedildiği dosya içinde ayrı bir C dosyası açıyor ve "main" fonksiyonu içine girilmiş olan işlemi yapıştırıp çalıştırıyor ve sonucu sizin ekranınıza output olarak yansıtıyor kısaca böyle hatalarım olabilir yapayda olsa zeka hata yapar değilmi?
+- canım sıkıldı ve yapay zeka yardımıylada olsa neden kendi kendine basit de olsa C yapılarını derleyebilen bir C kodu yazmıyorum dedim kendisi kaydedildiği dosya içinde ayrı bir C dosyası açıyor ve "main" fonksiyonu içine girilmiş olan işlemi yapıştırıp çalıştırıyor ve sonucu sizin ekranınıza output olarak yansıtıyor kısaca böyle
+- hatalarım olabilir yapayda olsa zeka hata yapar değilmi?
 
 ## Kullanım:
 - derlemek için terminal kullanmak gerekli gibi birşey linux bazlı sistemlerde daha rahat çalışır
